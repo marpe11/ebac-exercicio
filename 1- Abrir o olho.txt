@@ -1,0 +1,12 @@
+1- Abrir o olho
+2- Levantar
+3- Brincar com o cachorro
+4- ir até ao banheiro
+5- porta do banheiro está aberta? Não
+	1- Girar maçaneta
+	2- abrir a porta
+6- Entrar no banheiro
+7- Escovar os dentes
+8- Sair do banheiro
+9- Fechar a porta do banheiro
+10- ir até a cozinha
